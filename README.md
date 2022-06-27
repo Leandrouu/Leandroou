@@ -39,9 +39,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Leandrouu/Leandrouu/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
 </div>
