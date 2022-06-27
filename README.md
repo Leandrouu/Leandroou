@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">⭕Leandro⭕</h2>
+<h2 align="center">🔥 Leandro 🔥</h2>
 
 ###
 
@@ -16,9 +16,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" width="42" alt="css3 logo"  />
 </div>
 
 ###
@@ -37,7 +37,11 @@
 
 ###
 
+<br clear="both">
 
+<img href="https://raw.githubusercontent.com/Leandrouu/Leandrouu/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="left">
 </div>
